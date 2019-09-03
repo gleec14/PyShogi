@@ -1,0 +1,21 @@
+For the base game to be complete...
+1. Number indicating how many of one droppable piece the player has
+2. Promotion
+  a. sprites
+  b. code
+      - graphics for the promotion prompt are done
+      Need to promote or not promote based on whether the user clicked yes or no
+      To do so, need to keep track of what square the user wanted the piece to go
+  DONE!
+3. Window pipeline (speeds workflow immensely)
+  a. menu, informational popups
+4. Checks and Checkmates
+
+
+For completion
+* Move history
+* Undo move
+* Load and save games
+
+Cool stuff
+* Multiplayer
